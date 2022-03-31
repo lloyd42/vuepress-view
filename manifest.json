@@ -1,0 +1,21 @@
+{
+  "name": "唯世界",
+  "short_name": "V SeKai",
+  "display": "standalone",
+  "background_color": "#fff",
+  "start_url": "/vuepress-view/",
+  "scope": "/vuepress-view/",
+  "description": "唯世界的中文文档",
+  "icons": [
+    {
+      "src": "logo52.png",
+      "sizes": "52x52",
+      "type": "image/png"
+    },
+    {
+      "src": "logo288.png",
+      "sizes": "288x288",
+      "type": "image/png"
+    }
+  ]
+}
